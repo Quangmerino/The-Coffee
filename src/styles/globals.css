@@ -1,3 +1,10 @@
+/** Tailwind */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/** Base */
 html,
 body {
   padding: 0;
